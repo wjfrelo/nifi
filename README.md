@@ -71,6 +71,8 @@ Apache NiFi was made for dataflow. It supports highly configurable directed grap
 - For a more comprehensive guide to development and information about contributing to the project
   read through the [NiFi Developer's Guide](http://nifi.apache.org/developer-guide.html).
 
+I OPENED THE REPO FILE.
+
 To build:
 - Execute `mvn clean install` or for parallel build execute `mvn -T 2.0C clean install`. On a
   modest development laptop that is a couple of years old, the latter build takes a bit under ten
